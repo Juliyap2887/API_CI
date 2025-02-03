@@ -1,2 +1,1 @@
-[![Java CI with Gradle](https://github.com/Juliyap2887/API_CI/actions/workflows/gradle.yml/badge.svg)](https://github.com/Juliyap2887/API_CI/actions/workflows/gradle.yml)
 [![Build status](https://ci.appveyor.com/api/projects/status/e8ski0i9ebyi8opw?svg=true)](https://ci.appveyor.com/project/Juliyap2887/api-ci)
